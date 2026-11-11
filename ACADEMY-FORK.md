@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Suohai — https://github.com/sunnyyoung/Suohai
-- **Original authors:** Copyright (c) 2017 Sunnyyoung; The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.; THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- **Original authors:** Copyright (c) 2017 Sunnyyoung
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** c9911c0d315e355b6f5f94061c5a4814cd58b83b (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
